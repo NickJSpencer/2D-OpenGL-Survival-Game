@@ -9,6 +9,7 @@ Winter 2017 - ZJW (Piddington texture write)
 
 #include <iostream>
 #include <glad/glad.h>
+#include <iomanip>
 
 #include "GLSL.h"
 #include "Program.h"
@@ -115,6 +116,9 @@ public:
 	float dimX = 20.0f;
 	float dimZ = 20.0f;
 
+	float secondCounterTime = 0.0f;
+	int secondCounter = 1;
+
 	void keyCallback(GLFWwindow *window, int key, int scancode, int action, int mods)
 	{
 		if(key == GLFW_KEY_ESCAPE && action == GLFW_PRESS)
@@ -218,7 +222,7 @@ public:
 		{
 			mouseDown = true;
 			glfwGetCursorPos(window, &curPosX, &curPosY);
-			cout << "Pos X " << curPosX << " Pos Y " << curPosY << endl;
+			//cout << "Pos X " << curPosX << " Pos Y " << curPosY << endl;
 			Moving = true;
 		}
 
@@ -656,7 +660,18 @@ public:
 		// get time difference so that lag does not affect camera movement
 		timeNow = glfwGetTime();
 		timeInterval = (timeNow - timePrev) * 6;
+		secondCounterTime += timeInterval / 6;
 		timePrev = timeNow;
+
+		system("CLS");
+		cout << fixed << setprecision(2) << secondCounterTime << " seconds" << endl;
+		//if (secondCounterTime >= secondCounter)
+		//{
+		//	system("CLS");
+		//	cout << timeNow << "seconds" << endl;
+		//	//secondCounterTime -= 1.0;
+		//	secondCounter++;
+		//}
 
 		glBindFramebuffer(GL_FRAMEBUFFER, 0);
 

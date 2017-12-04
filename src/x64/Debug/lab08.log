@@ -1,0 +1,35 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (lab08.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(286): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(341): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(348): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(359): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(360): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(575): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(579): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(580): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(657): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(674): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(676): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(685): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(696): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(707): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(718): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(749): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(866): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(872): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(878): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(879): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(884): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(885): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(888): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(889): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(890): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(894): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(895): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(896): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(900): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(901): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\nickdesktop\documents\cal poly slo\fall 2017\cpe 471\final-project-proposal-nickjspencer-master\src\main.cpp(902): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  lab08.vcxproj -> C:\Users\NickDesktop\Documents\Cal Poly SLO\Fall 2017\CPE 471\final-project-proposal-NickJSpencer-master\x64\Debug\Program4.exe
+  lab08.vcxproj -> C:\Users\NickDesktop\Documents\Cal Poly SLO\Fall 2017\CPE 471\final-project-proposal-NickJSpencer-master\x64\Debug\Program4.pdb (Partial PDB)
